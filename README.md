@@ -12,22 +12,17 @@ Visualizations: A collection of interactive Tableau visualizations that illustra
 
 https://public.tableau.com/app/profile/randy.baicich/viz/WeatherAnalysis_16860843039650/WeatherStory
 
-additional weather resources that you might find useful:
+Additional weather resources that you might find useful:
 
-The Weather Channel - A widely recognized source for up-to-date weather information, including forecasts, radar maps, and weather news.
-Website
+The Weather Channel - https://weather.com/
 
-National Weather Service (NWS) - The NWS provides official weather forecasts, warnings, and other weather-related information for the United States.
-Website
+National Weather Service (NWS) - https://www.weather.gov/
 
-AccuWeather - AccuWeather offers detailed weather forecasts, severe weather alerts, and interactive weather maps for locations worldwide.
-Website
+AccuWeather - https://www.accuweather.com/
 
-Weather Underground - Known for its hyper-local weather information, Weather Underground provides access to weather data from personal weather stations.
-Website
+Weather Underground - https://www.wunderground.com/
 
-Windy.com - Windy provides a beautiful and interactive map of worldwide weather conditions, including wind patterns, temperature, and precipitation.
-Website
+Windy.com - https://www.windy.com/
 
 These resources offer a range of weather-related information, from general forecasts to more specialized data like wind patterns and hyper-local conditions.
 
