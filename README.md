@@ -1,5 +1,7 @@
 Weather-Patterns-A-Tableau-Analysis
 
+Studying weather is vital for predicting natural disasters, supporting agriculture, and making daily decisions. It is crucial for our safety and well-being, as well as for addressing global climate challenges.
+
 Welcome to the Tableau Weather Analysis project, where we explore and visualize weather data using Tableau. In this project, we'll take a closer look at weather patterns, trends, and insights using data visualization and analytics.
 
 Project Overview
