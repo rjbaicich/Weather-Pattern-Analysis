@@ -26,6 +26,12 @@ Windy.com - https://www.windy.com/
 
 These resources offer a range of weather-related information, from general forecasts to more specialized data like wind patterns and hyper-local conditions.
 
+  .-~~~-.
+ /  .-.-  \
+(       ̅ ̅  )
+ \  ` - ' /
+   `---`
+      ⚡
 
 
 
